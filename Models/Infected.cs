@@ -7,5 +7,6 @@ namespace CovidApp.Models
 {
     public class Infected
     {
+       public int id { get; set; }
     }
 }
